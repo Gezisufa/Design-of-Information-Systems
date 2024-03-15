@@ -1,2 +1,3 @@
 # Design-of-Information-Systems
-Source codes for DIS and PIS courses.
+
+Forked by student CVUT Sergej "Gezisufa" Andriievskyi, id 526852
